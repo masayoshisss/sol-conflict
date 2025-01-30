@@ -5,4 +5,5 @@ def sub(a, b):
 def div(a, b):
     pass
 def multiply(a, b):
-    pass
+    c = a + b
+    return c
