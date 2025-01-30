@@ -5,4 +5,7 @@ def sub(a, b):
 def div(a, b):
     pass
 def multiply(a, b):
-    pass
+    calculate = a * b
+    return calculate
+answer = multiply(2, 5)
+print(answer)
